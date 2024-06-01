@@ -1,4 +1,4 @@
-
+<img src="greetings.gif" alt="Alt Text">
 
 ![Header](./header.png)
 ###
