@@ -50,7 +50,7 @@
 
 <br clear="both">
 
-![Snake Animation](https://github.com/xzebcex/xzebcex/blob/output/dist/snake.svg)
+
 
 ###
 
@@ -58,8 +58,4 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/xzebcex/count.svg?"  />
-</div>
 
-###
