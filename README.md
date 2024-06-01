@@ -50,8 +50,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/xzebcex/xzebcex/output/snake.svg" alt="Snake animation" />
-
+![snake gif](https://github.com/xzebcex/xzebcex/blob/output/github-contribution-grid-snake.gif)
 ###
 
 <h3 align="left">Contact Me...</h3>
